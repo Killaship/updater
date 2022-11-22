@@ -1,5 +1,6 @@
 # updater
-A test for seeing if I can update programs
+A test for seeing if I can update programs from Github Pages.
+The JSON files that the updater programs look for can be found under /packages.
 
 # It werks (TM) like this:
 
